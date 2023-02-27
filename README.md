@@ -5,8 +5,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ethan-yeo&label=Profile%20views&color=0e75b6&style=flat" alt="ethan-yeo" /> </p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ethan-yeo" alt="ethan-yeo" /></a> </p>
-
 - 🔭 I’m currently working on **Learning new languages**
 
 - 📫 How to reach me **ethanyeo2001@gmail.com**
