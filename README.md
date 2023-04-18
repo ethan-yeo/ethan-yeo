@@ -5,11 +5,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ethan-yeo&label=Profile%20views&color=0e75b6&style=flat" alt="ethan-yeo" /> </p>
 
 
-- 🔭 I’m currently working on **Learning new languages**
+- 🔭 I’m currently working on **developing my programming skills**
 
 - 📫 How to reach me **ethanyeo2001@gmail.com**
 
-- ⚡ Fun fact **I love to sleep**
+- ⚡ I love going to the **gym**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
