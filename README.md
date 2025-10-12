@@ -3,17 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ethan-yeo&label=Profile%20views&color=0e75b6&style=flat" alt="ethan-yeo" /> </p>
 
-- 🔭 I’m currently working on **AI-Powered Applications**
+- 🔭 I’m currently working on **...**
 
-- 🌱 I’m currently learning **generative AI , software development**
-
-- 🤝 I’m looking for help with **picking up frontend development**
+- 🌱 I’m currently interested in **Product Management, Software Engineering**
 
 - 💬 Ask me about **anything**
 
 - 📫 How to reach me **ethanyeo2001@gmail.com**
-
-- ⚡ Fun fact **I love going to the gym, watching sports**
+- ⚡ Fun fact **I love going to the gym, watching football"
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
