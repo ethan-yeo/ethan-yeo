@@ -10,7 +10,7 @@
 - 💬 Ask me about **anything**
 
 - 📫 How to reach me **ethanyeo2001@gmail.com**
-- ⚡ Fun fact **I love going to the gym, watching football"
+- ⚡ Fun fact **I love going to the gym, watching football**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
